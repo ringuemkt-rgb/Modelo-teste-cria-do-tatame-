@@ -1,0 +1,5 @@
+{
+  "required": ["id", "name", "category", "from", "to", "belt_required", "cost", "effects"],
+  "cost_required": ["stamina", "focus"],
+  "effects_required": ["grip_damage", "base_damage", "control"]
+}
