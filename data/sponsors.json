@@ -1,0 +1,16 @@
+{
+  "sponsors": [
+    {
+      "id": "kimono_raiz",
+      "name": "Kimono Raiz",
+      "tier": 1,
+      "bonus": { "honra": 1 }
+    },
+    {
+      "id": "acai_do_porto",
+      "name": "Açaí do Porto",
+      "tier": 1,
+      "bonus": { "energy": 5 }
+    }
+  ]
+}
