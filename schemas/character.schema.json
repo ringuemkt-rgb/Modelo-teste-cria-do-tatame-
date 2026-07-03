@@ -1,0 +1,4 @@
+{
+  "required": ["id", "name", "stats"],
+  "stats_required": ["hp", "stamina", "technique", "pressure", "focus", "grip_strength", "speed"]
+}
