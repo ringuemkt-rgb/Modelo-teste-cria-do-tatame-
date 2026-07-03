@@ -1,0 +1,15 @@
+{
+  "missions": [
+    {
+      "id": "tutorial_terreiro_01",
+      "title": "Primeiro Sparring no Terreiro",
+      "type": "tutorial",
+      "arena_id": "terreiro_da_luta",
+      "opponent_id": "davi_relampago",
+      "moral_axis": "honra",
+      "summary": "Ruan faz o primeiro teste posicional para aprender ritmo, base e pressão.",
+      "requirements": { "week_min": 1, "belt_min": "Branca" },
+      "reward": { "money": 80, "xp": 20, "honra": 3, "hype": 2, "sombra": 0 }
+    }
+  ]
+}
