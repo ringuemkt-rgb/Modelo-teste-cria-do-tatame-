@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": "post_treino_silencioso",
+      "author": "Cria Live",
+      "text": "Ruan treinou no silêncio. Quem viu, respeitou.",
+      "tone": "honra",
+      "effects": { "honra": 2, "hype": 1, "sombra": 0 }
+    },
+    {
+      "id": "post_velha_guarda",
+      "author": "Velha Guarda",
+      "text": "Faixa não segura caráter. Treino e postura seguram.",
+      "tone": "raiz",
+      "effects": { "honra": 3, "hype": 0, "sombra": 0 }
+    }
+  ]
+}
