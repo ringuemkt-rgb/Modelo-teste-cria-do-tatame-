@@ -1,0 +1,16 @@
+{
+  "name": "cria-do-tatame-studio-template",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Modelo profissional para desenvolvimento do jogo Cria do Tatame.",
+  "type": "module",
+  "scripts": {
+    "check:json": "node tools/validate_json.mjs",
+    "check:data": "node tools/validate_game_data.mjs",
+    "assets:manifest": "node tools/generate_asset_manifest.mjs",
+    "start:web": "npx serve prototype-web"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

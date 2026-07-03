@@ -1,0 +1,16 @@
+{
+  "factions": [
+    {
+      "id": "raiz_terreiro",
+      "name": "Raiz do Terreiro",
+      "alignment": "honra",
+      "influence": 12
+    },
+    {
+      "id": "circuito_regional",
+      "name": "Circuito Regional",
+      "alignment": "hype",
+      "influence": 8
+    }
+  ]
+}

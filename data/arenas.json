@@ -1,0 +1,20 @@
+{
+  "arenas": [
+    {
+      "id": "terreiro_da_luta",
+      "name": "Terreiro da Luta",
+      "location": "Ituberá",
+      "biome": "Baixo Sul",
+      "difficulty": 1,
+      "mood": "raiz"
+    },
+    {
+      "id": "arena_camamu",
+      "name": "Arena de Camamu",
+      "location": "Camamu",
+      "biome": "mangue",
+      "difficulty": 2,
+      "mood": "pressão regional"
+    }
+  ]
+}

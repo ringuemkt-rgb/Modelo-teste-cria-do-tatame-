@@ -1,0 +1,4 @@
+{
+  "required": ["id", "title", "type", "arena_id", "opponent_id", "moral_axis", "reward"],
+  "reward_required": ["money", "xp", "honra", "hype", "sombra"]
+}
