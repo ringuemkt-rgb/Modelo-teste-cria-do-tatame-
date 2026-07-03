@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {
+      "id": "ruan_macacao",
+      "name": "Ruan Silva",
+      "nickname": "Macacão",
+      "belt": "Branca",
+      "origin": "Ituberá, Baixo Sul da Bahia",
+      "symbol": "Gorila Silverback",
+      "archetype": "pressão pesada, grip de ferro e top game dominante",
+      "special": "Silverback Grip",
+      "stats": {
+        "hp": 120,
+        "stamina": 105,
+        "technique": 55,
+        "pressure": 90,
+        "gas": 70,
+        "focus": 60,
+        "moral": 50,
+        "grip_strength": 95,
+        "speed": 45
+      }
+    },
+    {
+      "id": "davi_relampago",
+      "name": "Davi Relâmpago",
+      "nickname": "Relâmpago",
+      "belt": "Azul",
+      "origin": "circuito regional",
+      "symbol": "Raio",
+      "archetype": "velocidade, guarda aberta e contra-ataque",
+      "stats": {
+        "hp": 95,
+        "stamina": 118,
+        "technique": 58,
+        "pressure": 42,
+        "gas": 82,
+        "focus": 65,
+        "moral": 45,
+        "grip_strength": 42,
+        "speed": 88
+      }
+    }
+  ]
+}
