@@ -1,0 +1,44 @@
+{
+  "techniques": [
+    {
+      "id": "puxada_clinch",
+      "name": "Puxada para o Clinch",
+      "category": "entry",
+      "from": ["standup"],
+      "to": "clinch",
+      "belt_required": "Branca",
+      "cost": { "stamina": 12, "focus": 0 },
+      "effects": { "grip_damage": 16, "base_damage": 8, "control": 0 }
+    },
+    {
+      "id": "baiana_pressao",
+      "name": "Baiana de Pressão",
+      "category": "takedown",
+      "from": ["standup", "clinch"],
+      "to": "guard_top",
+      "belt_required": "Branca",
+      "cost": { "stamina": 20, "focus": 4 },
+      "effects": { "grip_damage": 12, "base_damage": 26, "control": 0 }
+    },
+    {
+      "id": "passagem_pesada",
+      "name": "Passagem Pesada",
+      "category": "pass",
+      "from": ["guard_top"],
+      "to": "side_control",
+      "belt_required": "Branca",
+      "cost": { "stamina": 24, "focus": 5 },
+      "effects": { "grip_damage": 10, "base_damage": 18, "control": 0 }
+    },
+    {
+      "id": "montada_silverback",
+      "name": "Montada Silverback",
+      "category": "control",
+      "from": ["side_control"],
+      "to": "mount",
+      "belt_required": "Branca",
+      "cost": { "stamina": 18, "focus": 5 },
+      "effects": { "grip_damage": 18, "base_damage": 12, "control": 15 }
+    }
+  ]
+}
